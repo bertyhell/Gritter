@@ -7,6 +7,10 @@ A small growl-like notification plugin for jQuery
 
     $ bower install jquery.gritter
 
+or
+
+    $ npm install gritter --save
+
 ## Change Log
 
 ### Changes in 1.7.4 (February 24, 2012)
